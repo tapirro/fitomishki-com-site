@@ -559,6 +559,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/ingrediente/l-arginina/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/ingrediente/l-carnitina/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/ingrediente/magnesio/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -572,6 +584,12 @@
   </url>
   <url>
     <loc>https://fitomishki.com/ingrediente/potasio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/ingrediente/probioticos/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -697,6 +715,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/acido-urico-elevado/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/ansiedad-por-comer/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -805,6 +829,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/fatiga-metabolica/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/gastritis/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -812,6 +842,12 @@
   </url>
   <url>
     <loc>https://fitomishki.com/condiciones/grasa-abdominal/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/higado-graso-metabolico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -889,6 +925,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/prediabetes/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/quemar-grasa/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -901,7 +943,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/resistencia-insulina/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/retencion-de-liquidos/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/retencion-liquidos-metabolica/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -925,27 +979,15 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://fitomishki.com/condiciones/trigliceridos-altos/</loc>
+    <loc>https://fitomishki.com/condiciones/trigliceridos-altos-metabolico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://fitomishki.com/ingrediente/l-arginina/</loc>
+    <loc>https://fitomishki.com/condiciones/trigliceridos-altos/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/ingrediente/l-carnitina/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/ingrediente/probioticos/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
