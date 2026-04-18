@@ -547,6 +547,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/ingrediente/fibra-de-avena/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/ingrediente/hierro/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -571,8 +577,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/ingrediente/luteina/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/ingrediente/magnesio/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/ingrediente/melatonina/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -595,6 +613,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/ingrediente/resveratrol/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/ingrediente/selenio/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -609,6 +633,12 @@
   <url>
     <loc>https://fitomishki.com/ingrediente/sinefrina/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/ingrediente/taurina/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -656,7 +686,7 @@
   </url>
   <url>
     <loc>https://fitomishki.com/ingredientes/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -734,6 +764,12 @@
   </url>
   <url>
     <loc>https://fitomishki.com/condiciones/antojos-de-azucar/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/antojos-nocturnos-y-control-peso/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -979,6 +1015,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/grasa-abdominal-menopausia/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/grasa-abdominal/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1111,6 +1153,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/peso-despues-de-los-40/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/peso-por-medicamentos/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/picar-entre-horas/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
@@ -1189,6 +1243,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/sindrome-metabolico-oficinistas/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/sindrome-metabolico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1229,65 +1289,5 @@
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/sindrome-metabolico-oficinistas/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/grasa-abdominal-menopausia/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/antojos-nocturnos-y-control-peso/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/peso-por-medicamentos/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/peso-despues-de-los-40/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/ingrediente/resveratrol/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/ingrediente/melatonina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/ingrediente/luteina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/ingrediente/taurina/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/ingrediente/fibra-de-avena/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
