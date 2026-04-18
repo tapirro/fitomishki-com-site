@@ -853,6 +853,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/cetosis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/circunferencia-abdominal-alta/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
@@ -889,8 +895,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/deficiencia-de-hierro/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/deficiencia-de-vitamina-d/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/desintoxicacion/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/diabetes-tipo-2-prevencion/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1069,7 +1093,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/hiperlipidemia/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/hipertension-por-obesidad/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/hipoglucemia-reactiva/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/hipotiroidismo-subclinico/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1105,6 +1147,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/lipodistrofia/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/menopausia-y-aumento-de-peso/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
@@ -1117,13 +1165,37 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/metabolismo-lento-y-altitud-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/metabolismo-lento/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/neuropatia-diabetica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/obesidad-abdominal-y-comida-criolla-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/obesidad-abdominal/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/obesidad-morbida/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1166,6 +1238,12 @@
   </url>
   <url>
     <loc>https://fitomishki.com/condiciones/picar-entre-horas/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/pie-diabetico/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1225,7 +1303,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/retencion-liquidos-y-sal-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/retinopatia-diabetica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/rollitos-en-la-espalda/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fitomishki.com/condiciones/sarcopenia/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1261,6 +1357,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://fitomishki.com/condiciones/sobrepeso-y-polladas-peru/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://fitomishki.com/condiciones/sobrepeso/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1289,83 +1391,5 @@
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/cetosis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/hipoglucemia-reactiva/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/diabetes-tipo-2-prevencion/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/neuropatia-diabetica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/pie-diabetico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/retinopatia-diabetica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/hiperlipidemia/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/obesidad-morbida/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/sarcopenia/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/lipodistrofia/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/deficiencia-de-vitamina-d/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/deficiencia-de-hierro/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://fitomishki.com/condiciones/hipotiroidismo-subclinico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
