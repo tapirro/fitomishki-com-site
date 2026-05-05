@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fitomishki.com/sitemap.xml
+Sitemap: https://fitomishki.com/sitemap-priority.xml
